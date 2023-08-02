@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Bryan-Habibi-Achmad
-- 👀 I’m interested in Gaming
-- 🌱 I’m currently learning To Code
+- 👋 Hello, I’m @Bryan-Habibi-Achmad
+- 👀 I’m interested in Coding & Character Design
+- 🌱 I’m currently learning To Code & Web Design
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
